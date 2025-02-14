@@ -36,7 +36,7 @@
 
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/find-duplicate-files.git
+   git clone https://github.com/dffdgdg/FindDuplicates.git
    ```
 
 3. Перейдите в директорию проекта:
